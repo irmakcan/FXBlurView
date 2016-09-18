@@ -25,7 +25,7 @@
     
     //configure blur view
     self.blurView.dynamic = NO;
-    self.blurView.tintColor = [UIColor colorWithRed:0 green:0.5 blue:0.5 alpha:1];
+    self.blurView.tintColor = [UIColor colorWithRed:0 green:0.5 blue:0.5 alpha:0.25];
     self.blurView.contentMode = UIViewContentModeBottom;
     
     //take snapshot, then move off screen once complete
