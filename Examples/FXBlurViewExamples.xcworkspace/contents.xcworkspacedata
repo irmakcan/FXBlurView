@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:AnimatedBlurExample"
+      name = "AnimatedBlurExample">
+      <FileRef
+         location = "group:FXBlurViewExample.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:FXBlurViewExample"
+         name = "FXBlurViewExample">
+         <FileRef
+            location = "group:AppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.m">
+         </FileRef>
+         <FileRef
+            location = "group:Default-568h@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Default.png">
+         </FileRef>
+         <FileRef
+            location = "group:Default@2x.png">
+         </FileRef>
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+            <FileRef
+               location = "group:ViewController.xib">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:FXBlurViewExample-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:FXBlurViewExample-Prefix.pch">
+         </FileRef>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:Snowman.png">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.m">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:BasicExample"
+      name = "BasicExample">
+      <Group
+         location = "group:FXBlurViewExample"
+         name = "FXBlurViewExample">
+         <FileRef
+            location = "group:AppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.m">
+         </FileRef>
+         <FileRef
+            location = "group:Default-568h@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Default.png">
+         </FileRef>
+         <FileRef
+            location = "group:Default@2x.png">
+         </FileRef>
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+            <FileRef
+               location = "group:ViewController.xib">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:FXBlurViewExample-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:FXBlurViewExample-Prefix.pch">
+         </FileRef>
+         <FileRef
+            location = "group:Grass.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:Grass@2x.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:FXBlurViewExample.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:OverlayExample"
+      name = "OverlayExample">
+      <Group
+         location = "group:OverlayExample"
+         name = "OverlayExample">
+         <FileRef
+            location = "group:AppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.m">
+         </FileRef>
+         <FileRef
+            location = "group:Default-568h@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Default.png">
+         </FileRef>
+         <FileRef
+            location = "group:Default@2x.png">
+         </FileRef>
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+            <FileRef
+               location = "group:ViewController.xib">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:iOS7.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:overlay.png">
+         </FileRef>
+         <FileRef
+            location = "group:OverlayExample-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:OverlayExample-Prefix.pch">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:OverlayExample.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
