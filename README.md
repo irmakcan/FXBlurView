@@ -114,6 +114,11 @@ FAQ
 Release Notes
 -----------------
 
+Version 1.6.5
+
+- Alpha of the tint color is used
+- Add tint blend mode
+
 Version 1.6.4
 
 - `blurredImageWithRadius:iterations:tintColor:` now works if image is not in ARGB format
